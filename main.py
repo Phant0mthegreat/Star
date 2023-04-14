@@ -8,9 +8,8 @@ import math
 import socket
 import requests
 import random 
-import colorama
-from colorama import Fore
-from colorama import Style
+import Fore
+import Style
 from os import system
 import sys
 import time
@@ -19,8 +18,7 @@ import random
 import string
 import pathlib
 import requests, os, threading, sys, time, random, ctypes, webbrowser,re, hashlib, datetime, os.path
-import colorama
-from colorama import Fore, init, Back, Style
+import Fore, init, Back, Style
 from datetime import date
 import random 
 
